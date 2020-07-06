@@ -1,0 +1,13 @@
+execution :
+1		2
+B blue		L : turn left
+R red		R : turn right
+G green		F : go forward
+U uncolorded	C : call function
+
+map :
+1		2
+ : empty	W : nothing
+S: star here	B : blue
+E: entry point	R : red
+		G : green
